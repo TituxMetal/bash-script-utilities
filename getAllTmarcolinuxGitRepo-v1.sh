@@ -36,6 +36,7 @@ set -e
 
 directories=(
   bash-script-utilities
+  ohmyzsh
   tmarcolinux-pkgbuild
   tmarcolinux-i3wm-config
   tmarcolinux-mirrorlist
