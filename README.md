@@ -9,3 +9,7 @@ ArcoLinux distribution.
 ## getAllTmarcolinuxGitRepo.sh
 
 Get all Titux Metal ArcoLinux repositories from GitHub
+
+## initialGitConfig.sh
+
+Intitialize Git configuration. Add some useful options and aliases
